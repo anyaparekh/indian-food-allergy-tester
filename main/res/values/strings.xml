@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Indian Food Allergy Tester</string>
+    <string name="indian_food_allergy_identifier">Indian Food Allergy Identifier</string>
+    <string name="add_allergies">Add Allergies</string>
+    <string name="scan_food">Scan Food</string>
+    <string name="existing_allergies">Ingredients You Are Allergic To</string>
+    <string name="enter_new_allergy">Enter Ingredients</string>
+    <string name="submit">Submit</string>
+    <string name="back">Back</string>
+</resources>
